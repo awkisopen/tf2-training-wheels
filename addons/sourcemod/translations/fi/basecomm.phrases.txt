@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"Gag/Mute player"
+	{
+		"fi"		"Tuki/hiljennä pelaaja"
+	}
+
+	"Choose Type"
+	{
+		"fi"		"Valitse tyyppi"
+	}
+
+	"Gagged target"
+	{
+		"fi"		"Tukittiin pelaajan {1} suu."
+	}
+
+	"Ungagged target"
+	{
+		"fi"		"{1} voi taas puhua."
+	}
+
+	"Muted target"
+	{
+		"fi"		"Mykistettiin {1}."
+	}
+
+	"Unmuted target"
+	{
+		"fi"		"{1} voi taas puhua."
+	}
+
+	"Silenced target"
+	{
+		"fi"		"Vaiennettiin {1}."
+	}
+
+	"Unsilenced target"
+	{
+		"fi"		"{1} voi taas puhua."
+	}
+
+	"Mute Player"
+	{
+		"fi"		"Hiljennä Pelaaja"
+	}
+
+	"UnMute Player"
+	{
+		"fi"		"Poista Pelaajan Mykistys"
+	}
+
+	"Gag Player"
+	{
+		"fi"		"Tuki Pelaaja"
+	}
+
+	"UnGag Player"
+	{
+		"fi"		"Poista Pelaajan Tukinta"
+	}
+
+	"Silence Player"
+	{
+		"fi"		"Vaienna Pelaaja"
+	}
+
+	"UnSilence Player"
+	{
+		"fi"		"Poista Pelaajan Vaiennus"
+	}
+
+}

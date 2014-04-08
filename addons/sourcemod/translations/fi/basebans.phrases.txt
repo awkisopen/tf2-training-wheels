@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Ban player"
+	{
+		"fi"		"Anna porttikielto"
+	}
+
+	"Ban reason"
+	{
+		"fi"		"Porttikiellon syy"
+	}
+
+	"Permabanned player"
+	{
+		"fi"		"Annettiin pysyvä porttikielto pelaajalle \"{1}\"."
+	}
+
+	"Permabanned player reason"
+	{
+		"fi"		"Annettiin pysyvä porttikielto pelaajalle \"{1}\" (syy: {2})."
+	}
+
+	"Banned player"
+	{
+		"fi"		"Annettiin {2} minuutin porttikielto pelaajalle \"{1}\"."
+	}
+
+	"Banned player reason"
+	{
+		"fi"		"Annettiin {2} minuutin porttikielto pelaajalle \"{1}\" (syy: {3})."
+	}
+
+	"Removed bans matching"
+	{
+		"fi"		"Poistettiin porttikiellot, jotka vastasivat suodatusta: {1} "
+	}
+
+	"Ban added"
+	{
+		"fi"		"Porttikielto lisätty"
+	}
+
+	"Cannot ban that IP"
+	{
+		"fi"		"Et voi antaa porttikieltoa tälle IP-osoitteelle."
+	}
+
+}

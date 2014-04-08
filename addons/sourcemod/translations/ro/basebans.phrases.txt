@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Ban player"
+	{
+		"ro"		"Ban jucător"
+	}
+
+	"Ban reason"
+	{
+		"ro"		"Motiv ban"
+	}
+
+	"Permabanned player"
+	{
+		"ro"		"Jucătorul \"{1}\" a primit ban permanent."
+	}
+
+	"Permabanned player reason"
+	{
+		"ro"		"Jucătorul \"{1}\" a primit ban permanent (motiv: {2})."
+	}
+
+	"Banned player"
+	{
+		"ro"		"Jucătorul \"{1}\" a primit ban pentru {2} minute"
+	}
+
+	"Banned player reason"
+	{
+		"ro"		"Jucătorul \"{1}\" a primit ban pentru {2} minute (motiv: {3})."
+	}
+
+	"Removed bans matching"
+	{
+		"ro"		"Au fost şterge ban-urile conforme cu filtrul: {1}"
+	}
+
+	"Ban added"
+	{
+		"ro"		"Ban a fost adăugat."
+	}
+
+	"Cannot ban that IP"
+	{
+		"ro"		"Nu poţi da ban acestei adrese IP."
+	}
+
+}

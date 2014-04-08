@@ -1,0 +1,19 @@
+*.vpk
+*.log
+/bin/
+/cfg/custom.cfg
+/cfg/replay.cfg
+/custom/
+/download/
+/downloadlists/
+/maps/*
+!/maps/tr_walkway_rc2.bsp
+/materials/
+/media/
+/replay/
+/resource/
+/scripts/
+
+# Sourcemod data
+/addons/sourcemod/data/
+/addons/sourcemod/logs/
